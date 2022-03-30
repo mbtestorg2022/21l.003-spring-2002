@@ -5,6 +5,7 @@ description: 'This handout illustrates the proper method for making references t
   the text within your paper, and how to punctuation the reference. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-003-introduction-to-fiction-spring-2002/78c35498ed0639f34b46f316b07f7e9d_using_quotations.pdf
 file_type: application/pdf
+parent_uid: 5960a92d-5597-239b-dde9-376ee9774e41
 resourcetype: Document
 title: Using Quotations
 uid: 78c35498-ed06-39f3-4b46-f316b07f7e9d
